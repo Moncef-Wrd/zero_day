@@ -1,1 +1,1 @@
-This project is about using virtua mmachiness andd vagrant.
+This project is about using virtual machines and vagrant.
